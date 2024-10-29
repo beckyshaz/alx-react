@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "jQuery": "^1.7.4",
+    "jquery": "^3.7.1",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
